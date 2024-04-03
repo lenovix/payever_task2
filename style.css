@@ -1,0 +1,88 @@
+html {
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+.globe-payever-logo {
+  position: absolute;
+  bottom: 0;
+  height: 20px;
+  width: 20px;
+}
+
+.item-flag-wrapper {
+  height: auto;
+  width: auto;
+  border-radius: 10px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.item-flag {
+  position: absolute;
+  bottom: 8px;
+  scale: 0.8;
+  opacity: 1;
+}
+
+.item-flag.show {
+  opacity: 1;
+}
+
+.item-flag.ger {
+  background-image: url('/src/img/germany-flag.svg');
+  height: 38px;
+  width: 93px;
+}
+
+.item-flag.at {
+  background-image: url('/src/img/austria-flag.svg');
+  height: 38px;
+  width: 84px;
+}
+
+.item-flag.bel {
+  background-image: url('/src/img/belgium-flag.svg');
+  height: 38px;
+  width: 89px;
+}
+
+.item-flag.dnk {
+  background-image: url('/src/img/denmark-flag.svg');
+  height: 38px;
+  width: 94px;
+}
+
+.item-flag.swe {
+  background-image: url('/src/img/sweden-flag.svg');
+  height: 38px;
+  width: 88px;
+}
+
+.item-flag.nor {
+  background-image: url('/src/img/norway-flag.svg');
+  height: 38px;
+  width: 86px;
+}
+
+.item-flag.fin {
+  background-image: url('/src/img/finland-flag.svg');
+  height: 38px;
+  width: 85px;
+}
+
+.item-flag.ned {
+  background-image: url('/src/img/netherlands-flag.svg');
+  height: 38px;
+  width: 110px;
+}
+
+.item-flag.uk {
+  background-image: url('/src/img/united-kingdom-flag.svg');
+  height: 38px;
+  width: 131px;
+}

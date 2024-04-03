@@ -1,0 +1,104 @@
+{
+  "type": "map",
+  "maps": [
+    {
+      "text": "ger",
+      "size": 1,
+      "country": "Germany",
+      "city": "Berlin",
+      "lat": "53.554901029518234",
+      "lng": "9.99923263499617",
+      "x": 0.9,
+      "y": -0.2,
+      "z": 0
+    },
+    {
+      "text": "at",
+      "country": "Austria",
+      "size": 1,
+      "city": "Vienna",
+      "lat": "48.209990234113235",
+      "lng": "16.37349244024072",
+      "x": 0.7,
+      "y": -0.4,
+      "z": 0
+    },
+    {
+      "text": "swe",
+      "country": "Sweden",
+      "size": 1,
+      "city": "Stockholm",
+      "lat": "59.329522640893565",
+      "lng": "18.071763880763097",
+      "x": 0.9,
+      "y": -0.3,
+      "z": 0
+    },
+    {
+      "text": "nor",
+      "country": "Norway",
+      "size": 1,
+      "city": "Oslo",
+      "lat": "59.914341846103774",
+      "lng": "10.760397260962863",
+      "x": 0.9,
+      "y": -0.2,
+      "z": 0
+    },
+    {
+      "text": "dnk",
+      "country": "Denmark",
+      "size": 1,
+      "city": "Copenhagen",
+      "lat": "55.67659135941805",
+      "lng": "12.566014756083224",
+      "x": 0.8,
+      "y": -0.3,
+      "z": 0
+    },
+    {
+      "text": "fin",
+      "country": "Finland",
+      "size": 1,
+      "city": "Helsinki",
+      "lat": "60.16999066522373",
+      "lng": "24.906070483275272",
+      "x": 0.8,
+      "y": -0.5,
+      "z": 0
+    },
+    {
+      "text": "uk",
+      "country": "UK",
+      "size": 1,
+      "city": "London",
+      "lat": "51.50492708720905",
+      "lng": "-0.1455439638437973",
+      "x": 0.7,
+      "y": 0,
+      "z": 0
+    },
+    {
+      "text": "bel",
+      "country": "Belgium",
+      "size": 1,
+      "city": "Brussels",
+      "lat": "50.8465622226266",
+      "lng": "4.349324569905245",
+      "x": 0.7,
+      "y": -0.2,
+      "z": 0
+    },
+    {
+      "text": "ned",
+      "country": "Netherlands",
+      "size": 1,
+      "city": "Amsterdam",
+      "lat": "52.36944645467163",
+      "lng": "4.907393627644047",
+      "x": 0.8,
+      "y": -0.2,
+      "z": 0
+    }
+  ]
+}
